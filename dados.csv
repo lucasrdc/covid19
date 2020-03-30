@@ -1,0 +1,231 @@
+fips;variable;age_epi;value;prop_severe;prop_infected
+13;age1;Age 0-9 Years;818194;0;0,074
+13;age2;Age 10-19 Years;826696;0;0,071
+13;age3;Age 20-29 Years;731694;0;0,061
+13;age4;Age 30-39 Years;618559;0,01;0,06
+13;age5;Age 40-49 Years;423215;0,09;0,049
+13;age6;Age 50-59 Years;280097;0,1;0,091
+13;age7;Age 60-69 Years;147536;0,24;0,154
+13;age8;Age 70+ Years;92334;0,12;0,097
+13;doubling_time;NA;4,4;NA;NA
+13;n_hospital_beds_2017;NA;2634;NA;NA
+13;n_hospital_beds_2017_sus;NA;2174;NA;NA
+13;n_init;NA;1;NA;NA
+13;n_medsurg_card_other_icu_beds_2017;NA;107;NA;NA
+13;n_medsurg_card_other_icu_beds_2017_sus;NA;34;NA;NA
+13;n_pop_2018;NA;3938325;NA;NA
+13;n_ventilator;NA;899;NA;NA
+13;n_ventilator_sus;NA;734;NA;NA
+13;tx_normal;NA;0,8253607;NA;NA
+13;tx_ocup_normal;NA;0,3613868;NA;NA
+13;tx_ocup_uti;NA;0,3365788;NA;NA
+13;tx_plano;NA;0,142;NA;NA
+13;tx_resp;NA;0,8164628;NA;NA
+13;tx_uti;NA;0,317757;NA;NA
+23;age1;Age 0-9 Years;733067;0;0,074
+23;age2;Age 10-19 Years;820660;0;0,071
+23;age3;Age 20-29 Years;857912;0;0,061
+23;age4;Age 30-39 Years;775341;0,01;0,06
+23;age5;Age 40-49 Years;582436;0,09;0,049
+23;age6;Age 50-59 Years;429608;0,1;0,091
+23;age7;Age 60-69 Years;253210;0,24;0,154
+23;age8;Age 70+ Years;190459;0,12;0,097
+23;doubling_time;NA;3,35;NA;NA
+23;n_hospital_beds_2017;NA;5908;NA;NA
+23;n_hospital_beds_2017_sus;NA;4000;NA;NA
+23;n_init;NA;3;NA;NA
+23;n_medsurg_card_other_icu_beds_2017;NA;311;NA;NA
+23;n_medsurg_card_other_icu_beds_2017_sus;NA;127;NA;NA
+23;n_pop_2018;NA;4642693;NA;NA
+23;n_ventilator;NA;1485;NA;NA
+23;n_ventilator_sus;NA;1065;NA;NA
+23;tx_normal;NA;0,6770481;NA;NA
+23;tx_ocup_normal;NA;0,4058756;NA;NA
+23;tx_ocup_uti;NA;0,4991753;NA;NA
+23;tx_plano;NA;0,149;NA;NA
+23;tx_resp;NA;0,7171717;NA;NA
+23;tx_uti;NA;0,4083601;NA;NA
+29;age1;Age 0-9 Years;676049;0;0,074
+29;age2;Age 10-19 Years;765998;0;0,071
+29;age3;Age 20-29 Years;801335;0;0,061
+29;age4;Age 30-39 Years;946277;0,01;0,06
+29;age5;Age 40-49 Years;653157;0,09;0,049
+29;age6;Age 50-59 Years;490428;0,1;0,091
+29;age7;Age 60-69 Years;279670;0,24;0,154
+29;age8;Age 70+ Years;188285;0,12;0,097
+29;doubling_time;NA;4,1;NA;NA
+29;n_hospital_beds_2017;NA;6628;NA;NA
+29;n_hospital_beds_2017_sus;NA;4839;NA;NA
+29;n_init;NA;1;NA;NA
+29;n_medsurg_card_other_icu_beds_2017;NA;353;NA;NA
+29;n_medsurg_card_other_icu_beds_2017_sus;NA;97;NA;NA
+29;n_pop_2018;NA;4801199;NA;NA
+29;n_ventilator;NA;1773;NA;NA
+29;n_ventilator_sus;NA;1308;NA;NA
+29;tx_normal;NA;0,730084479;NA;NA
+29;tx_ocup_normal;NA;0,420838803;NA;NA
+29;tx_ocup_uti;NA;0,623784006;NA;NA
+29;tx_plano;NA;0,111;NA;NA
+29;tx_resp;NA;0,737732649;NA;NA
+29;tx_uti;NA;0,274787545;NA;NA
+31;age1;Age 0-9 Years;857634;0;0,074
+31;age2;Age 10-19 Years;1018732;0;0,071
+31;age3;Age 20-29 Years;1088347;0;0,061
+31;age4;Age 30-39 Years;1158660;0,01;0,06
+31;age5;Age 40-49 Years;876235;0,09;0,049
+31;age6;Age 50-59 Years;738239;0,1;0,091
+31;age7;Age 60-69 Years;454418;0,24;0,154
+31;age8;Age 70+ Years;336454;0,12;0,097
+31;doubling_time;NA;4,6;NA;NA
+31;n_hospital_beds_2017;NA;8844;NA;NA
+31;n_hospital_beds_2017_sus;NA;5337;NA;NA
+31;n_init;NA;1;NA;NA
+31;n_medsurg_card_other_icu_beds_2017;NA;424;NA;NA
+31;n_medsurg_card_other_icu_beds_2017_sus;NA;67;NA;NA
+31;n_pop_2018;NA;6528719;NA;NA
+31;n_ventilator;NA;2474;NA;NA
+31;n_ventilator_sus;NA;1650;NA;NA
+31;tx_normal;NA;0,60346;NA;NA
+31;tx_ocup_normal;NA;0,5310067;NA;NA
+31;tx_ocup_uti;NA;0,8900127;NA;NA
+31;tx_plano;NA;0,252;NA;NA
+31;tx_resp;NA;0,6669362;NA;NA
+31;tx_uti;NA;0,1580189;NA;NA
+33;age1;Age 0-9 Years;2121013;0;0,074
+33;age2;Age 10-19 Years;2521942;0;0,071
+33;age3;Age 20-29 Years;2538444;0;0,061
+33;age4;Age 30-39 Years;2609514;0,01;0,06
+33;age5;Age 40-49 Years;2296998;0,09;0,049
+33;age6;Age 50-59 Years;2039603;0,1;0,091
+33;age7;Age 60-69 Years;1374578;0,24;0,154
+33;age8;Age 70+ Years;1047917;0,12;0,097
+33;doubling_time;NA;3,7;NA;NA
+33;n_hospital_beds_2017;NA;22020;NA;NA
+33;n_hospital_beds_2017_sus;NA;12471;NA;NA
+33;n_init;NA;1;NA;NA
+33;n_medsurg_card_other_icu_beds_2017;NA;2968;NA;NA
+33;n_medsurg_card_other_icu_beds_2017_sus;NA;664;NA;NA
+33;n_pop_2018;NA;16550009;NA;NA
+33;n_ventilator;NA;7858;NA;NA
+33;n_ventilator_sus;NA;4512;NA;NA
+33;tx_normal;NA;0,5663488;NA;NA
+33;tx_ocup_normal;NA;0,5738495;NA;NA
+33;tx_ocup_uti;NA;0,4644722;NA;NA
+33;tx_plano;NA;0,33;NA;NA
+33;tx_resp;NA;0,5741919;NA;NA
+33;tx_uti;NA;0,2237197;NA;NA
+35;age1;Age 0-9 Years;1485289;0;0,074
+35;age2;Age 10-19 Years;1728401;0;0,071
+35;age3;Age 20-29 Years;2088858;0;0,061
+35;age4;Age 30-39 Years;1919545;0,01;0,06
+35;age5;Age 40-49 Years;1572728;0,09;0,049
+35;age6;Age 50-59 Years;1229079;0,1;0,091
+35;age7;Age 60-69 Years;733333;0,24;0,154
+35;age8;Age 70+ Years;619452;0,12;0,097
+35;doubling_time;NA;4,35;NA;NA
+35;n_hospital_beds_2017;NA;18804;NA;NA
+35;n_hospital_beds_2017_sus;NA;8347;NA;NA
+35;n_init;NA;1;NA;NA
+35;n_medsurg_card_other_icu_beds_2017;NA;3161;NA;NA
+35;n_medsurg_card_other_icu_beds_2017_sus;NA;825;NA;NA
+35;n_pop_2018;NA;11376685;NA;NA
+35;n_ventilator;NA;7495;NA;NA
+35;n_ventilator_sus;NA;3816;NA;NA
+35;tx_normal;NA;0,4438949;NA;NA
+35;tx_ocup_normal;NA;0,7148457;NA;NA
+35;tx_ocup_uti;NA;0,5934637;NA;NA
+35;tx_plano;NA;0,409;NA;NA
+35;tx_resp;NA;0,5091394;NA;NA
+35;tx_uti;NA;0,2609934;NA;NA
+41;age1;Age 0-9 Years;904384;0;0,074
+41;age2;Age 10-19 Years;890716;0;0,071
+41;age3;Age 20-29 Years;895186;0;0,061
+41;age4;Age 30-39 Years;732432;0,01;0,06
+41;age5;Age 40-49 Years;589312;0,09;0,049
+41;age6;Age 50-59 Years;363378;0,1;0,091
+41;age7;Age 60-69 Years;248548;0,24;0,154
+41;age8;Age 70+ Years;5398028;0,12;0,097
+41;doubling_time;NA;4,5;NA;NA
+41;n_hospital_beds_2017;NA;7244;NA;NA
+41;n_hospital_beds_2017_sus;NA;4610;NA;NA
+41;n_init;NA;1;NA;NA
+41;n_medsurg_card_other_icu_beds_2017;NA;393;NA;NA
+41;n_medsurg_card_other_icu_beds_2017_sus;NA;167;NA;NA
+41;n_pop_2018;NA;1653692;NA;NA
+41;n_ventilator;NA;2004;NA;NA
+41;n_ventilator_sus;NA;1420;NA;NA
+41;tx_normal;NA;0,693648875;NA;NA
+41;tx_ocup_normal;NA;0,454827219;NA;NA
+41;tx_ocup_uti;NA;0,852407217;NA;NA
+41;tx_plano;NA;0,269;NA;NA
+41;tx_resp;NA;0,424936384;NA;NA
+41;tx_uti;NA;0,636388719;NA;NA
+43;age1;Age 0-9 Years;632851;0;0,074
+43;age2;Age 10-19 Years;755527;0;0,071
+43;age3;Age 20-29 Years;769217;0;0,061
+43;age4;Age 30-39 Years;795803;0,01;0,06
+43;age5;Age 40-49 Years;639205;0,09;0,049
+43;age6;Age 50-59 Years;609984;0,1;0,091
+43;age7;Age 60-69 Years;407749;0,24;0,154
+43;age8;Age 70+ Years;298384;0,12;0,097
+43;doubling_time;NA;3,8;NA;NA
+43;n_hospital_beds_2017;NA;7778;NA;NA
+43;n_hospital_beds_2017_sus;NA;5078;NA;NA
+43;n_init;NA;1;NA;NA
+43;n_medsurg_card_other_icu_beds_2017;NA;674;NA;NA
+43;n_medsurg_card_other_icu_beds_2017_sus;NA;349;NA;NA
+43;n_pop_2018;NA;4908720;NA;NA
+43;n_ventilator;NA;1738;NA;NA
+43;n_ventilator_sus;NA;1372;NA;NA
+43;tx_normal;NA;0,6528671;NA;NA
+43;tx_ocup_normal;NA;0,6207995;NA;NA
+43;tx_ocup_uti;NA;0,7617804;NA;NA
+43;tx_plano;NA;0,239;NA;NA
+43;tx_resp;NA;0,7894131;NA;NA
+43;tx_uti;NA;0,5178041;NA;NA
+53;age1;Age 0-9 Years;407609;0;0,074
+53;age2;Age 10-19 Years;466970;0;0,071
+53;age3;Age 20-29 Years;549255;0;0,061
+53;age4;Age 30-39 Years;537954;0,01;0,06
+53;age5;Age 40-49 Years;406793;0,09;0,049
+53;age6;Age 50-59 Years;272346;0,1;0,091
+53;age7;Age 60-69 Years;162610;0,24;0,154
+53;age8;Age 70+ Years;111293;0,12;0,097
+53;doubling_time;NA;4;NA;NA
+53;n_hospital_beds_2017;NA;4375;NA;NA
+53;n_hospital_beds_2017_sus;NA;2580;NA;NA
+53;n_init;NA;1;NA;NA
+53;n_medsurg_card_other_icu_beds_2017;NA;564;NA;NA
+53;n_medsurg_card_other_icu_beds_2017_sus;NA;52;NA;NA
+53;n_pop_2018;NA;2914830;NA;NA
+53;n_ventilator;NA;2010;NA;NA
+53;n_ventilator_sus;NA;1073;NA;NA
+53;tx_normal;NA;0,5897143;NA;NA
+53;tx_ocup_normal;NA;0,7707798;NA;NA
+53;tx_ocup_uti;NA;0,8010141;NA;NA
+53;tx_plano;NA;0,336;NA;NA
+53;tx_resp;NA;0,5338308;NA;NA
+53;tx_uti;NA;0,0921986;NA;NA
+99;age1;Age 0-9 Years;30516823;0;0,074
+99;age2;Age 10-19 Years;34032356;0;0,071
+99;age3;Age 20-29 Years;34233195;0;0,061
+99;age4;Age 30-39 Years;33493666;0,01;0,06
+99;age5;Age 40-49 Years;26746629;0,09;0,049
+99;age6;Age 50-59 Years;21486897;0,1;0,091
+99;age7;Age 60-69 Years;13641709;0,24;0,154
+99;age8;Age 70+ Years;10299105;0,12;0,097
+99;doubling_time;NA;3,45;NA;NA
+99;n_hospital_beds_2017;NA;248660;NA;NA
+99;n_hospital_beds_2017_sus;NA;160717;NA;NA
+99;n_init;NA;1;NA;NA
+99;n_medsurg_card_other_icu_beds_2017;NA;15456;NA;NA
+99;n_medsurg_card_other_icu_beds_2017_sus;NA;4296;NA;NA
+99;n_pop_2018;NA;204450380;NA;NA
+99;n_ventilator;NA;65605;NA;NA
+99;n_ventilator_sus;NA;46018;NA;NA
+99;tx_normal;NA;0,646332341;NA;NA
+99;tx_ocup_normal;NA;0,454827219;NA;NA
+99;tx_ocup_uti;NA;0,852407217;NA;NA
+99;tx_plano;NA;0,242;NA;NA
+99;tx_resp;NA;0,701440439;NA;NA
+99;tx_uti;NA;0,277950311;NA;NA
